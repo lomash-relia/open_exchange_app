@@ -1,6 +1,6 @@
 # currency_converter
 
-A new Flutter project.
+Currency converter app built using Open Exchange API and HTTP package.
 
 ## Getting Started
 
